@@ -31,4 +31,4 @@ s3.put_object(
     Body=csv_buffer.getvalue()
 )
 
-print("File uploaded successfully")
+print("File uploaded successful")
